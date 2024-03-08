@@ -1,0 +1,31 @@
+{
+  "name": "@gbbits/text2image",
+  "version": "1.0.0",
+  "description": "text2image",
+  "main": "./src/text2image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbbits/text2image"
+  },
+  "keywords": [
+    "text",
+    "texts",
+    "js",
+    "javascript",
+    "image",
+    "images"
+  ],
+  "author": "gbbits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbbits/text2image/issues"
+  },
+  "homepage": "https://github.com/gbbits/text2image#readme",
+  "dependencies": {
+    "@gbbits/data-tool": "^1.1.0",
+    "canvas": "^2.11.2"
+  }
+}
